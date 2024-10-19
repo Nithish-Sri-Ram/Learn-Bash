@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #To print to length of the string
-
+
 echo "Enter a string"
 
 read str
